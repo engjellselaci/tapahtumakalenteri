@@ -1,0 +1,72 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "998ee809ebdfb8dfa383900f7aabf6f8",
+    "packages": [
+        {
+            "name": "devgeniem/dustpress",
+            "version": "1.27.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/devgeniem/dustpress.git",
+                "reference": "b270508d1c197ab86fa591609a9a8104e6d138a5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/devgeniem/dustpress/zipball/b270508d1c197ab86fa591609a9a8104e6d138a5",
+                "reference": "b270508d1c197ab86fa591609a9a8104e6d138a5",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "dustpress.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Miika Arponen",
+                    "email": "miika.arponen@geniem.com",
+                    "homepage": "https://geniem.com/",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Ville Siltala",
+                    "email": "ville.siltala@geniem.com",
+                    "homepage": "https://geniem.com/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "WordPress Theme Framework.",
+            "keywords": [
+                "dustjs",
+                "dustpress",
+                "framework",
+                "javascript",
+                "theme",
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/devgeniem/dustpress/issues",
+                "source": "https://github.com/devgeniem/dustpress/tree/1.27.1"
+            },
+            "time": "2019-12-13T11:36:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
